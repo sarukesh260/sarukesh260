@@ -15,7 +15,7 @@
 
 ### 💻 About Me
 
-```java
+java
 class Sarukesh {
     String name = "Sarukesh S";
     String location = "Puducherry, India";
