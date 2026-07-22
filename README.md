@@ -30,7 +30,8 @@ class Sarukesh {
         "System Design", "Advanced Cybersecurity", "Cloud Deployment"
     };
 
-    String funFact = "Solved 300+ problems on Skillrack and presented a research paper at ICSCAN 2026!";
+    String funFact = "Solved 300+ problems on Skillrack
+and presented a research paper at ICSCAN 2026!";
 
     public String motto() {
         return "Build secure, scalable, and impactful software.";
